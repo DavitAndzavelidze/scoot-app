@@ -29,7 +29,7 @@ export default function Navbar() {
             />
             <ul className="hidden md:flex md:items-center md:font-bold md:space-x-6 md:text-[#939CAA]">
               <li className="lg:hover:text-[#FCB72B]">
-                <NavLink to="/">Home</NavLink>
+                <NavLink to="/scoot-app">Home</NavLink>
               </li>
               <li className="lg:hover:text-[#FCB72B]">
                 <NavLink to="/about">About</NavLink>
@@ -66,7 +66,7 @@ export default function Navbar() {
             </button>
             <div className="space-y-6 md:space-y-0 md:space-x-6 md:flex mt-[64px] md:mt-[0px] ml-8 text-white md:text-[#939CAA] text-[15px] items-center h-screen md:h-full">
               <li>
-                <NavLink to="/">Home</NavLink>
+                <NavLink to="/scoot-app">Home</NavLink>
               </li>
               <li>
                 <NavLink to="/about">About</NavLink>
