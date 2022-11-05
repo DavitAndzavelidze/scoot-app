@@ -87,7 +87,7 @@ export default function Navbar() {
         </div>
       </nav>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/scoot-app" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/locations" element={<Location />} />
         <Route path="/careers" element={<Careers />} />
