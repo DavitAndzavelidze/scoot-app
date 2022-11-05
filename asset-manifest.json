@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/scoot-app/static/css/main.cd2d900f.css",
+    "main.js": "/scoot-app/static/js/main.185797de.js",
+    "static/media/hero-bg.jpg": "/scoot-app/static/media/hero-bg.637c39d527cf4b22a1a2.jpg",
+    "static/media/blog2.png": "/scoot-app/static/media/blog2.fe882ec205a30bb80a2b.png",
+    "static/media/careers-img1.png": "/scoot-app/static/media/careers-img1.9b106c228fb8f85a98c3.png",
+    "static/media/blog3.png": "/scoot-app/static/media/blog3.81ed9cf612710d711341.png",
+    "static/media/about-pic1.png": "/scoot-app/static/media/about-pic1.3e32853e11d9d8c88b7c.png",
+    "static/media/about-pic2.png": "/scoot-app/static/media/about-pic2.18485e7bc9f288a0ab0b.png",
+    "static/media/mapMain.png": "/scoot-app/static/media/mapMain.04be8c57a3433a6356ac.png",
+    "static/media/about-pic5.png": "/scoot-app/static/media/about-pic5.cad284409679b8960c7d.png",
+    "static/media/About.jpg": "/scoot-app/static/media/About.ad4dfcebc427e1256a81.jpg",
+    "static/media/blog1.png": "/scoot-app/static/media/blog1.efbdd711ae50064f93df.png",
+    "static/media/about-pic4.png": "/scoot-app/static/media/about-pic4.9b80f13c4788e8b78827.png",
+    "static/media/about-pic3.png": "/scoot-app/static/media/about-pic3.e8e938ac89b01ce8796b.png",
+    "static/media/Careers.jpg": "/scoot-app/static/media/Careers.52e70318598bfe124fa0.jpg",
+    "static/media/map.png": "/scoot-app/static/media/map.685378d565c63d0a77b8.png",
+    "static/media/scoot.svg": "/scoot-app/static/media/scoot.0eb1e806bb51ebf774e4b097b34d1d69.svg",
+    "static/media/pick.svg": "/scoot-app/static/media/pick.a97c64fa68b150e45253396b46aa5df5.svg",
+    "static/media/scootwt.svg": "/scoot-app/static/media/scootwt.23d24123ad083d84f19c5735b6f92fce.svg",
+    "static/media/ride.svg": "/scoot-app/static/media/ride.68a7afd0314143a317ddd50eef7cdc15.svg",
+    "static/media/locate.svg": "/scoot-app/static/media/locate.403ca0ce5d88e38d5c612fbb9423d550.svg",
+    "index.html": "/scoot-app/index.html",
+    "main.cd2d900f.css.map": "/scoot-app/static/css/main.cd2d900f.css.map",
+    "main.185797de.js.map": "/scoot-app/static/js/main.185797de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd2d900f.css",
+    "static/js/main.185797de.js"
+  ]
+}
