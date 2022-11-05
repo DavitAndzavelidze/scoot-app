@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/scoot-app/static/css/main.cd2d900f.css",
-    "main.js": "/scoot-app/static/js/main.185797de.js",
+    "main.js": "/scoot-app/static/js/main.821ab8d5.js",
     "static/media/hero-bg.jpg": "/scoot-app/static/media/hero-bg.637c39d527cf4b22a1a2.jpg",
     "static/media/blog2.png": "/scoot-app/static/media/blog2.fe882ec205a30bb80a2b.png",
     "static/media/careers-img1.png": "/scoot-app/static/media/careers-img1.9b106c228fb8f85a98c3.png",
@@ -23,10 +23,10 @@
     "static/media/locate.svg": "/scoot-app/static/media/locate.403ca0ce5d88e38d5c612fbb9423d550.svg",
     "index.html": "/scoot-app/index.html",
     "main.cd2d900f.css.map": "/scoot-app/static/css/main.cd2d900f.css.map",
-    "main.185797de.js.map": "/scoot-app/static/js/main.185797de.js.map"
+    "main.821ab8d5.js.map": "/scoot-app/static/js/main.821ab8d5.js.map"
   },
   "entrypoints": [
     "static/css/main.cd2d900f.css",
-    "static/js/main.185797de.js"
+    "static/js/main.821ab8d5.js"
   ]
 }
